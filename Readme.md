@@ -25,3 +25,8 @@ npm run dev
 ## TechStack used
 
 Reactjs, Expressjs, Nodejs
+
+## Deployed Links
+
+- Frontend: [https://url-shortener-beta-mocha.vercel.app/](https://url-shortener-beta-mocha.vercel.app/)
+- Backend: [https://url-shortener-kc4b.onrender.com/](https://url-shortener-kc4b.onrender.com/)
