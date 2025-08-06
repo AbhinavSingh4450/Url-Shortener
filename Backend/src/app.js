@@ -17,7 +17,7 @@ const isVercel = !!process.env.VERCEL;
 
 const allowedOrigins = [
   "http://localhost:5173",
-  "https://devconnect-omega.vercel.app",
+  "https://url-shortener-beta-mocha.vercel.app/",
 ];
 
 app.use(
